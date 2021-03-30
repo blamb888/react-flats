@@ -1,4 +1,4 @@
-# react-boilerplate
+# react-flats
 
 Simple react starter with the following config:
 
