@@ -25,6 +25,12 @@ yarn:
 yarn add google-map-react
 ```
 
+```
+yarn add @fortawesome/fontawesome-svg-core
+yarn add @fortawesome/free-solid-svg-icons
+yarn add @fortawesome/react-fontawesome
+```
+
 To lint all JavaScript files in the `src` folder:
 
 ```bash
