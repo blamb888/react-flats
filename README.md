@@ -19,6 +19,11 @@ To start the local Webpack Dev Server (usually on port `8080`):
 ```bash
 yarn start
 ```
+yarn:
+
+```
+yarn add google-map-react
+```
 
 To lint all JavaScript files in the `src` folder:
 
