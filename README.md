@@ -1,6 +1,6 @@
 # react-flats
 
-![image](https://user-images.githubusercontent.com/3223329/112943324-52686180-916c-11eb-8151-e0320d6a62e2.png)
+![image](https://user-images.githubusercontent.com/3223329/112951584-79c42c00-9176-11eb-8d0a-bc2da44029cc.png)
 
 
 Simple react starter with the following config:
