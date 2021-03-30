@@ -1,6 +1,6 @@
 # react-flats
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/3223329/112943324-52686180-916c-11eb-8151-e0320d6a62e2.png)
 
 
 Simple react starter with the following config:
