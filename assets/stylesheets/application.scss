@@ -1,5 +1,8 @@
+@import "cards";
+
 body {
   font-family: Helvetica;
+  background-color: white;
 }
 
 #root {
@@ -7,12 +10,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-@import "cards";
-
-body {
-  background-color: white;
 }
 
 #root {
